@@ -23,64 +23,6 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-       /* Button app1Btn = (Button) findViewById(R.id.btnApp1);
-        Button app2Btn = (Button) findViewById(R.id.btnApp2);
-        Button app3Btn = (Button) findViewById(R.id.btnApp3);
-        Button app4Btn = (Button) findViewById(R.id.btnApp4);
-        Button app5Btn = (Button) findViewById(R.id.btnApp5);
-        Button app6Btn = (Button) findViewById(R.id.btnApp6);
-
-        app1Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-
-        app2Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ToastMessage(((Button)v).getText().toString());
-            }
-        });
-
-        app3Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ToastMessage(((Button) v).getText().toString());
-            }
-        });
-
-        app4Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ToastMessage(((Button) v).getText().toString());
-            }
-        });
-
-        app5Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ToastMessage(((Button) v).getText().toString());
-            }
-        });
-
-        app6Btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ToastMessage(((Button) v).getText().toString());
-            }
-        });*/
-
-
-
-
-
-
-
-
-
-
     }
 
     public void showMessage(View view)
